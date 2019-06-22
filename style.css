@@ -1,0 +1,18 @@
+#num,
+#matchNum,
+#scrBrd,
+#win, 
+#lose,
+#wins,
+#losses,
+#infStns,
+#bldgNum,
+p,
+h1,
+h2 {
+    color: white;
+    font-family: 'Audiowide', cursive;
+}
+#gauntlet {
+    position: absolute;
+}
